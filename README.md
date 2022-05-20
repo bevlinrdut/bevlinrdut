@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bevlin Reddy
 - 👀 I’m interested in Data preparing, cleaning and analysis, visualisation and story telling.
 - 🌱 I’m currently working on some exciting stuff.
-- 💞️ I’m looking employment opportunities for a data analysis (remote and in-person in Cape Town, South Africa).
+- 💞️ I’m looking employment opportunities as a data analyst (remote and in-person in Cape Town, South Africa).
 - 📫 How to reach me bevlin.reddy@gmail.com.
 
 <!---
